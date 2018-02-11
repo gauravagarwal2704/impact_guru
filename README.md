@@ -12,4 +12,4 @@ This is replica of the Impact Guru campaign [page](https://www.impactguru.com/fu
 
 ## Features
 - Used dummy json file to `GET` real time details of campaign (can be found in public folder)
-- Used state / props to show progress animation of funding received to the campaign.
+- Used **state / props** to show progress animation of funding received to the campaign.
