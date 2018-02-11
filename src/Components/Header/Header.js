@@ -32,7 +32,7 @@ class Header extends Component {
     return (
         <Navbar className="header" color="faded" light expand="md">
           <NavbarBrand href="/">
-            <img alt="img" src="/assets/images/logo.png" />
+            <img alt="img" src="assets/images/logo.png" />
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>

@@ -10,13 +10,13 @@ class Slider extends Component {
        <div>
         <Carousel>
               <div>
-                  <img alt="" src="/assets/images/slider/1.jpg" />
+                  <img alt="" src="assets/images/slider/1.jpg" />
               </div>
               <div>
-                  <img alt="" src="/assets/images/slider/2.jpg" />
+                  <img alt="" src="assets/images/slider/2.jpg" />
               </div>
               <div>
-                  <img alt="" src="/assets/images/slider/3.jpg" />
+                  <img alt="" src="assets/images/slider/3.jpg" />
               </div>
           </Carousel>
 
