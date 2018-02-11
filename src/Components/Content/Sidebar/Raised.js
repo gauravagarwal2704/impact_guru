@@ -56,7 +56,7 @@ class Raised extends Component {
       if(this.state.amtRaisedState >= this.state.amtTargetState){
               clearInterval(amtInterval);
       }
-    }, 50);
+    }, 200);
   }
 
   render() {
