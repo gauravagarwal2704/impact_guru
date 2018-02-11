@@ -4,11 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is replica of the Impact Guru campaign [page](https://www.impactguru.com/fundraiser/project-alpha-by-the-living-routes) provided in the email.
 <br>
 
-## Libraries / Features
-
-- [Libraries](#libraries)
-- [Features](#features)
-
 ## Libraries
 
 - Material-UI (for ReactJs)
