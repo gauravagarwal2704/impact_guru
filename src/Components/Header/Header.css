@@ -1,0 +1,8 @@
+.header{
+  box-shadow: 0px 5px 5px #d4d1d1;
+  padding: 1px;
+}
+
+.onHover:hover{
+	color: #a2ed0a !important
+}
